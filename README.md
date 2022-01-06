@@ -12,3 +12,8 @@ Use the debug log to check your score at the end.
 ## Challenge 2
 Mostly as specified in https://learn.unity.com/tutorial/challenge-2-play-fetch-with-random-values-and-arrays but uses mutex to lock spawning until previous object is removed  
 *Might try to make dog run back after obtaining ball/reaching end of screen*
+
+## Personal Project  
+Third person perspective with movement and camera control  
+Sketchy pause menu  
+**TO DO** Fix menu, add buttons  
