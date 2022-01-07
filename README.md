@@ -17,3 +17,9 @@ Mostly as specified in https://learn.unity.com/tutorial/challenge-2-play-fetch-w
 Third person perspective with movement and camera control  
 Sketchy pause menu  
 **TO DO** Fix menu, add buttons  
+
+# Prototype 3 - **Jump Game**  
+Jumping was more complicated than needed.  
+Added hold time to jump and waits until landing until player can jump again.  
+*Note: UNITY (+ most games) use polling instead of interrupts!!*  
+**TODO** Finish game  
