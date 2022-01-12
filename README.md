@@ -21,5 +21,13 @@ Sketchy pause menu
 # Prototype 3 - **Jump Game**  
 Jumping was more complicated than needed.  
 Added hold time to jump and waits until landing until player can jump again.  
+Slightly clunky because jump only happens after release or 2 seconds.  
 *Note: UNITY (+ most games) use polling instead of interrupts!!*  
-**TODO** Finish game  
+**TODO**  
+    Finish game  
+    Make jump similar to Mario (lower gravity while jump is held?)  
+
+# Prototype 4 - **Sumo**  
+
+# Prototype 5 - **Clicky Consumables**  
+Learning about UI.
